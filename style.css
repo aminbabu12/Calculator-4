@@ -58,6 +58,7 @@ h1:hover{box-shadow: 0 26px 42px 0 rgba(0,0,0,0.2);}
   color: #F0F0F0;
   color: black;
   border: 2px solid #D0D0D0;
+  cursor: pointer;
 }
 
 .btn:hover{
